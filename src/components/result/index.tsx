@@ -111,47 +111,47 @@ const AnalyzeResult = ({
                         </Thead>
                         <Tbody>
                           <Tr>
-                            <Td>Num Of Characters</Td>
+                            <Td>Number Of Characters</Td>
                             <Td>{result.features.num_characters}</Td>
                           </Tr>
                           <Tr>
-                            <Td>Num Of Words</Td>
+                            <Td>Number Of Words</Td>
                             <Td>{result.features.num_words}</Td>
                           </Tr>
                           <Tr>
-                            <Td>Num Of Punctuations</Td>
+                            <Td>Number Of Punctuations</Td>
                             <Td>{result.features.num_punctuation}</Td>
                           </Tr>
                           <Tr>
-                            <Td>Num Of Nouns</Td>
+                            <Td>Number Of Nouns</Td>
                             <Td>{result.features.num_nouns}</Td>
                           </Tr>
                           <Tr>
-                            <Td>Num Of Verbs</Td>
+                            <Td>Number Of Verbs</Td>
                             <Td>{result.features.num_verbs}</Td>
                           </Tr>
                           <Tr>
-                            <Td>Num Of Adverbs</Td>
+                            <Td>Number Of Adverbs</Td>
                             <Td>{result.features.num_adverbs}</Td>
                           </Tr>
                           <Tr>
-                            <Td>Num Of Adjectives</Td>
+                            <Td>Number Of Adjectives</Td>
                             <Td>{result.features.num_adjectives}</Td>
                           </Tr>
                           <Tr>
-                            <Td>Num Of Conjunctions</Td>
+                            <Td>Number Of Conjunctions</Td>
                             <Td>{result.features.num_conjunctions}</Td>
                           </Tr>
                           <Tr>
-                            <Td>Num Of Distinct Words</Td>
+                            <Td>Number Of Distinct Words</Td>
                             <Td>{result.features.num_distinct_words}</Td>
                           </Tr>
                           <Tr>
-                            <Td>Num Of Misspellings</Td>
+                            <Td>Number Of Misspellings</Td>
                             <Td>{result.features.num_misspellings}</Td>
                           </Tr>
                           <Tr>
-                            <Td>Num Of Sentences</Td>
+                            <Td>Number Of Sentences</Td>
                             <Td>{result.features.num_sentences}</Td>
                           </Tr>
                           <Tr>
